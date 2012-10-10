@@ -10,6 +10,9 @@
     "type": "git",
     "url": "https://github.com/sunfang1cn/hiveshell"
   },
+  "dependencies": {
+    "procstreams": "=0.3.0"
+  },
   "keywords": [
     "hive",
     "shell",
